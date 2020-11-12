@@ -1,0 +1,54 @@
+/* manifold_icon */
+
+position: absolute;
+width: 600px;
+height: 600px;
+
+/* icon */
+
+position: absolute;
+width: 600px;
+height: 600px;
+
+background: #ffffff;
+
+/* Group 3 */
+
+position: absolute;
+width: 300px;
+height: 300px;
+left: 150px;
+top: 150px;
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 300px;
+height: 300px;
+left: 150px;
+top: 150px;
+
+background: linear-gradient(180deg, #0085ff 0%, rgba(0, 27, 210, 0.94) 100%);
+box-shadow: 0px 40px 50px rgba(0, 0, 0, 0.25);
+border-radius: 65px;
+
+/* Volume
+
+Manifold Finance
+*/
+
+position: absolute;
+left: 36%;
+right: 33.83%;
+top: 34.83%;
+bottom: 35%;
+
+/* Vector */
+
+position: absolute;
+left: 0.55%;
+right: 0.55%;
+top: 5.52%;
+bottom: 5.52%;
+
+background: #ffffff;
